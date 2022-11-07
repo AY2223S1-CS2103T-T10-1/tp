@@ -92,9 +92,9 @@ our app.
 | [Edit person](#245-edit-person)                             | `edit-person     INDEX ([n/NAME] [e/EMAIL]  [p/PHONE_NUMBER])`          | Edit contact belonging to the specified index currently displayed on the screen |
 | *[Find person](#246-find-person)                            | `find-person     KEYWORD`                                               | Find contacts that starts with specified keyword                                |
 | *[List person](#247-list-person)                            | `list-person`                                                           | List all contacts                                                               |
-| [Home](#251-navigate-to-home)                               | `home`                                                                  | Navigate to the home page                                                       |
-| [Goto](#252-navigate-between-modules)                       | `goto MODULE_CODE`                                                      | Navigate to specified module page                                               |
-| [Help](#26-help)                                            | `help`                                                                  | View help                                                                       |
+| [Goto](#251-navigate-between-modules)                       | `goto MODULE_CODE`                                                      | Navigate to specified module page                                               |
+| [Home](#252-navigate-to-home)                               | `home`                                                                  | Navigate to the home page                                                       |
+| [Help](#26-view-help)                                       | `help`                                                                  | View help                                                                       |
 | [Exit](#27-exiting-the-program)                             | `exit`                                                                  | Exit the program                                                                |
 
 
